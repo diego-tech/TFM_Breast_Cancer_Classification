@@ -2,7 +2,6 @@
 This repository contains the data and documentation related to the development of the Master's Thesis of the Universidad Europea de Madrid referred to the Master in Artificial Intelligence and DataScience.
 
 ### Members
-* María Inmaculada García Hernández
 * Álvaro Ladrón de Guevara Garcés
 * Ángel Martín Heras
 * Diego Muñoz Herranz
